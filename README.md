@@ -1,11 +1,11 @@
 # CodeIgniter 4 Application Starter
 
 ## Requierment
-> min php 7.4
-> mysql
+1. min php 7.4
+2. mysql
 
 ## Installation 
-> Clone this project
-> composer install
-> php spark serve
+1. Clone this project
+2. composer install
+3. php spark serve
 
